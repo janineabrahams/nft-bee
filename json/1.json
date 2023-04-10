@@ -1,0 +1,10 @@
+{
+  "name": "Die Cat Band Join",
+  "external_url": "https://staging.bitterkomix.fanfire.ai/0xB6f5dE4B6a56382a7d70d6A8E6b7241e14b1901c/0",
+  "image": "https://raw.githubusercontent.com/janineabrahams/nft-bee/main/images/0.jpeg",
+  "description": "DEMO We Introduce you BEE-CAT Kannemeyer from the sketchbooks bee stands for beehive collection. The collection is extending now - more coming soon.",
+  "attributes": [
+    { "trait_type": "Artist", "value": "Beehive" },
+    { "trait_type": "Edition", "value": "Case 102" }
+  ]
+}
